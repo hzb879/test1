@@ -1,2 +1,9 @@
 main 222 commit
+
+本地落后的main作出的修改添加函数cute
+
+function cute(name, age) {
+    return {name, age};
+}
+
 main 准备了server 和 client分支
