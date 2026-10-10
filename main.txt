@@ -8,10 +8,13 @@ function cute(name, age) {
 
 main hhz 修改了这里222 commit
 
-hhz 新增以下函数
-
+hhz 新增以下函数, fork后修改的一行
 function hello() {
     return "hello";
 }
 
+fork了后第3次修改， 我来建议了
+
 main 准备了server 和 client分支
+
+我fork 了后修改了这一行
