@@ -1,8 +1,10 @@
 main hhz 修改了这里222 commit
 
-hhz 新增以下函数
+hhz 新增以下函数, fork后修改的一行
 function hello() {
     return "hello";
 }
 
 main 准备了server 和 client分支
+
+我fork 了后修改了这一行
